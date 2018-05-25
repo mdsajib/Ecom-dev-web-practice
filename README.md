@@ -1,2 +1,2 @@
-# Ecommerce
-Simple E-commerce Website
+Simple Website
+             For Practice
